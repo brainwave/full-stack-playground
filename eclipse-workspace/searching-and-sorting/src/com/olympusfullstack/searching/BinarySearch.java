@@ -1,3 +1,4 @@
+package com.olympusfullstack.searching;
 import java.util.Scanner;
 
 public class BinarySearch {
@@ -48,4 +49,4 @@ public class BinarySearch {
 
 		System.out.println("program execution time: " + (endTime - startTime));
 	}
-}
+} 
