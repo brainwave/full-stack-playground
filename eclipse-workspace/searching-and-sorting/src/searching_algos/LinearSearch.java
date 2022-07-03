@@ -1,4 +1,4 @@
-package com.olympusfullstack.searching;
+package searching_algos;
 import java.util.Scanner;
 
 public class LinearSearch {
