@@ -1,0 +1,25 @@
+{
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.1"
+  },
+  "name": "fullstack-playground",
+  "version": "1.0.0",
+  "description": "Playground to learn full stack web dev",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/brainwave/full-stack-playground.git"
+  },
+  "keywords": [
+    "fullstack"
+  ],
+  "author": "Brahm Prakash Mishra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brainwave/full-stack-playground/issues"
+  },
+  "homepage": "https://github.com/brainwave/full-stack-playground#readme"
+}
