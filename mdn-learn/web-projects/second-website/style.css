@@ -1,0 +1,29 @@
+
+main {
+    flex-grow: 1;
+}
+h1 {
+    color: hotpink;
+    border-bottom: 10px dotted;
+    border-bottom-color: purple;
+}
+
+h2 {
+    font-style: italic;
+}
+
+ul {
+    background-color: #eeeeee;
+    border: 5px solid;
+    padding: 1em;
+}
+
+a:hover{
+    color: green;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    left: 1em;
+}
